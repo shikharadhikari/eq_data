@@ -1,0 +1,9 @@
+To run the backend
+>>cd .\earthquake-api\
+>>node server.js
+
+To run the frontend
+>>cd .\earthquake-app\
+>>npm start
+
+
